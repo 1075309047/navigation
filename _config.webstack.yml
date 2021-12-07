@@ -1,10 +1,10 @@
 favicon: /favicon.ico
-banner: ./images/webstack_banner_cn.png
+banner: /navigation/images/webstack_banner_cn.png
 
 logo:
-  expanded: ./images/logo@2x.png
-  collapsed: ./images/logo-collapsed@2x.png
-  dark: ./images/logo_dark@2x.png
+  expanded: /navigation/images/logo@2x.png
+  collapsed: /navigation/images/logo-collapsed@2x.png
+  dark: /navigation/images/logo_dark@2x.png
 
 flag:
   icon: flag-cn
@@ -34,22 +34,22 @@ menu:
 testPage:
   - name: Child Page
     url: /child
-    img: ./images/logos/myblog.png
+    img: /navigation/images/logos/myblog.png
     description: 子页面测试
 devTools:
   - name: Github
     url: https://github.com/
-    img: ./images/logos/github.png
+    img: /navigation/images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
   - name: Github
     url: https://github.com/
-    img: ./images/logos/github.png
+    img: /navigation/images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
 
 myBlog:
   - name: HCLonely Blog
     url: https://blog.hclonely.com/
-    img: ./images/logos/myBlog.png
+    img: /navigation/images/logos/myBlog.png
     description: 一个懒人的博客。
 
 about:
@@ -65,7 +65,7 @@ aboutPage:
     head: 关于站长
     name: HCLonely
     url: https://blog.hclonely.com/
-    img: ./images/logos/myblog.png
+    img: /navigation/images/logos/myblog.png
     description: 懒人一个
     html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 
